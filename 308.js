@@ -100,10 +100,8 @@ function getLearnerData(course, ag, submissions) {
 
 // console.log(result);
 
-[
-    // { '1': '0.94', '2': '1.00', id: 125, avg: '0.98' },
-    // { '1': '0.78', '2': '0.83', id: 132, avg: '0.82' }
-  ]
+
+
 
 
 
