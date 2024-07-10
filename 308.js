@@ -178,7 +178,7 @@ function getLearnerData(CourseInfo, AssignmentGroup, LearnerSubmissions) {
             }
                 
         }
-     
+
 // Calculate the percentage score for the assignment and store it
         learnerData[assignment.id] = (score / assignment.points_possible).toFixed(2); //this means fixed to 2 decimal places
         learnerData.totalPoints += assignment.points_possible;
